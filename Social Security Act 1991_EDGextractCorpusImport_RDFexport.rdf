@@ -1,0 +1,139 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://purl.org/dc/terms/"
+    xmlns:j.1="http://topbraid.org/corpus#xmpTPg:"
+    xmlns:social_services_act_extract="http://example.org/corpora/new#"
+    xmlns:j.2="http://topbraid.org/corpus#extended-properties:"
+    xmlns:j.3="http://topbraid.org/swa#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.4="http://topbraid.org/corpus#"
+    xmlns:j.5="http://topbraid.org/corpus#cp:"
+    xmlns:j.6="http://topbraid.org/corpus#meta:"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:metadata="http://topbraid.org/metadata#" > 
+  <rdf:Description rdf:about="urn:x-evn-master:social_services_act_extract">
+    <j.3:defaultNamespace>http://example.org/corpora/new#</j.3:defaultNamespace>
+    <owl:imports rdf:resource="http://topbraid.org/corpus"/>
+    <rdfs:label>Social Services Act Extract</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Ontology"/>
+    <rdf:type rdf:resource="http://topbraid.org/corpus#DefaultCorpus"/>
+    <metadata:status rdf:resource="http://topbraid.org/metadata#UnderDevelopmentStatus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/corpora/new#Mobility%20Allowance%20-%20extract.docx">
+    <rdf:type rdf:resource="http://topbraid.org/corpus#Document"/>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-01T00:05:00Z</j.0:created>
+    <j.6:page-count rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</j.6:page-count>
+    <j.4:Line-Count rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</j.4:Line-Count>
+    <j.6:paragraph-count rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</j.6:paragraph-count>
+    <j.4:Last-Author>simon opper</j.4:Last-Author>
+    <j.2:Template>Normal</j.2:Template>
+    <j.4:contentType>application/vnd.openxmlformats-officedocument.wordprocessingml.document</j.4:contentType>
+    <j.6:author>simon opper</j.6:author>
+    <j.2:AppVersion>16.0000</j.2:AppVersion>
+    <j.4:Application-Version>16.0000</j.4:Application-Version>
+    <j.6:word-count rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</j.6:word-count>
+    <j.4:Word-Count rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</j.4:Word-Count>
+    <j.5:revision>1</j.5:revision>
+    <j.4:Revision-Number>1</j.4:Revision-Number>
+    <j.6:character-count rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1712</j.6:character-count>
+    <j.6:creation-date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-01T00:05:00Z</j.6:creation-date>
+    <j.4:Template>Normal</j.4:Template>
+    <j.4:Author>simon opper</j.4:Author>
+    <j.4:Last-Save-Date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-01T00:09:00Z</j.4:Last-Save-Date>
+    <j.4:Paragraph-Count rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</j.4:Paragraph-Count>
+    <j.6:line-count rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</j.6:line-count>
+    <j.4:resourceName>temp75a74cfd-1983-439b-8d22-e23db6199cdb.docx</j.4:resourceName>
+    <j.4:resourceName>Mobility Allowance - extract.docx</j.4:resourceName>
+    <j.4:Total-Time>3</j.4:Total-Time>
+    <j.6:save-date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-01T00:09:00Z</j.6:save-date>
+    <j.4:CharacterCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1712</j.4:CharacterCount>
+    <j.6:last-author>simon opper</j.6:last-author>
+    <j.4:Character-Count-With-Spaces rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2008</j.4:Character-Count-With-Spaces>
+    <j.2:Application>Microsoft Office Word</j.2:Application>
+    <j.4:content rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#HTML">&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
+&lt;head&gt;
+&lt;meta name="date" content="2019-02-01T00:09:00Z" /&gt;
+&lt;meta name="cp:revision" content="1" /&gt;
+&lt;meta name="Total-Time" content="3" /&gt;
+&lt;meta name="extended-properties:AppVersion" content="16.0000" /&gt;
+&lt;meta name="meta:paragraph-count" content="4" /&gt;
+&lt;meta name="meta:word-count" content="300" /&gt;
+&lt;meta name="dc:creator" content="simon opper" /&gt;
+&lt;meta name="extended-properties:Company" content="" /&gt;
+&lt;meta name="Word-Count" content="300" /&gt;
+&lt;meta name="dcterms:created" content="2019-02-01T00:05:00Z" /&gt;
+&lt;meta name="meta:line-count" content="14" /&gt;
+&lt;meta name="Last-Modified" content="2019-02-01T00:09:00Z" /&gt;
+&lt;meta name="dcterms:modified" content="2019-02-01T00:09:00Z" /&gt;
+&lt;meta name="Last-Save-Date" content="2019-02-01T00:09:00Z" /&gt;
+&lt;meta name="meta:character-count" content="1712" /&gt;
+&lt;meta name="Template" content="Normal" /&gt;
+&lt;meta name="Line-Count" content="14" /&gt;
+&lt;meta name="Paragraph-Count" content="4" /&gt;
+&lt;meta name="meta:save-date" content="2019-02-01T00:09:00Z" /&gt;
+&lt;meta name="meta:character-count-with-spaces" content="2008" /&gt;
+&lt;meta name="Application-Name" content="Microsoft Office Word" /&gt;
+&lt;meta name="extended-properties:TotalTime" content="3" /&gt;
+&lt;meta name="modified" content="2019-02-01T00:09:00Z" /&gt;
+&lt;meta name="Content-Type" content="application/vnd.openxmlformats-officedocument.wordprocessingml.document" /&gt;
+&lt;meta name="X-Parsed-By" content="org.apache.tika.parser.DefaultParser" /&gt;
+&lt;meta name="X-Parsed-By" content="org.apache.tika.parser.microsoft.ooxml.OOXMLParser" /&gt;
+&lt;meta name="creator" content="simon opper" /&gt;
+&lt;meta name="meta:author" content="simon opper" /&gt;
+&lt;meta name="meta:creation-date" content="2019-02-01T00:05:00Z" /&gt;
+&lt;meta name="extended-properties:Application" content="Microsoft Office Word" /&gt;
+&lt;meta name="meta:last-author" content="simon opper" /&gt;
+&lt;meta name="Creation-Date" content="2019-02-01T00:05:00Z" /&gt;
+&lt;meta name="xmpTPg:NPages" content="1" /&gt;
+&lt;meta name="resourceName" content="temp75a74cfd-1983-439b-8d22-e23db6199cdb.docx" /&gt;
+&lt;meta name="resourceName" content="Mobility Allowance - extract.docx" /&gt;
+&lt;meta name="Character-Count-With-Spaces" content="2008" /&gt;
+&lt;meta name="Last-Author" content="simon opper" /&gt;
+&lt;meta name="Character Count" content="1712" /&gt;
+&lt;meta name="Page-Count" content="1" /&gt;
+&lt;meta name="Revision-Number" content="1" /&gt;
+&lt;meta name="Application-Version" content="16.0000" /&gt;
+&lt;meta name="extended-properties:Template" content="Normal" /&gt;
+&lt;meta name="Author" content="simon opper" /&gt;
+&lt;meta name="publisher" content="" /&gt;
+&lt;meta name="meta:page-count" content="1" /&gt;
+&lt;meta name="dc:publisher" content="" /&gt;
+&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;p class="actHead_2"&gt;&lt;a name="_Toc535330086" /&gt;&lt;a name="_GoBack" /&gt;PartÂ 2.21â€”Mobility allowance&lt;/p&gt;
+&lt;p class="actHead_3"&gt;&lt;a name="_Toc535330087" /&gt;DivisionÂ 1â€”Qualification for and payability of mobility allowance&lt;/p&gt;
+&lt;p class="actHead_4"&gt;&lt;a name="_Toc535330088" /&gt;Subdivision Aâ€”Qualification&lt;/p&gt;
+&lt;p class="actHead_5"&gt;&lt;a name="_Toc535330089" /&gt;1035  Qualification for mobility allowance (rate specified in subsectionÂ 1044(1))&lt;/p&gt;
+&lt;p class="subsection"&gt;&lt;b&gt;	&lt;/b&gt;(1)&lt;b&gt;	&lt;/b&gt;A person is qualified for a mobility allowance at the rate specified in subsectionÂ 1044(1) if the person satisfies the travel test set out in subsectionÂ (2) and:&lt;/p&gt;
+&lt;p class="paragraph"&gt;	(a)	all of the following apply:&lt;/p&gt;
+&lt;p class="paragraph(sub)"&gt;	(i)	the person is a handicapped person;&lt;/p&gt;
+&lt;p class="paragraph(sub)"&gt;	(ii)	the person is engaged in gainful employment;&lt;/p&gt;
+&lt;p class="paragraph(sub)"&gt;	(iii)	the Secretary is of the opinion that:&lt;/p&gt;
+&lt;p class="paragraph(sub-sub)"&gt;	(A)	the person is unable to use public transport without substantial assistance, either permanently or for an extended period; and&lt;/p&gt;
+&lt;p class="paragraph(sub-sub)"&gt;	(B)	the personâ€™s inability to use public transport without substantial assistance is due to the personâ€™s physical or mental disability; and&lt;/p&gt;
+&lt;p class="paragraph(sub-sub)"&gt;	(C)	the person is engaged in the gainful employment for at least 32 hours in every 4 weeks on a continuing basis;&lt;/p&gt;
+&lt;p class="paragraph(sub)"&gt;	(iv)	the person is an Australian resident; or&lt;/p&gt;
+&lt;p class="subsection"&gt;	(2)	A person satisfies the travel test mentioned in subsectionÂ (1) if the person is required to travel to and from the personâ€™s home for the purpose of undertaking:&lt;/p&gt;
+&lt;p class="paragraph"&gt;	(a)	gainful employment; or&lt;/p&gt;
+&lt;p class="paragraph"&gt;	(b)	vocational training; or&lt;/p&gt;
+&lt;p class="paragraph"&gt;	(c)	job search activities; or&lt;/p&gt;
+&lt;p class="paragraph"&gt;	(d)	voluntary work; or&lt;/p&gt;
+&lt;p class="paragraph"&gt;	(e)	a vocational rehabilitation program.&lt;/p&gt;
+&lt;p class="subsection"&gt;	(3)	In this section:&lt;/p&gt;
+&lt;p class="definition"&gt;&lt;b&gt;&lt;i&gt;vocational rehabilitation program&lt;/i&gt;&lt;/b&gt; means a rehabilitation program (or followup program) under PartÂ III of the &lt;i&gt;Disability Services Act 1986&lt;/i&gt; that provides a person with assistance to obtain or retain unsupported paid employment.&lt;/p&gt;
+&lt;p class="note(text)"&gt;Note:	A vocational rehabilitation program may include vocational training within the meaning of sectionÂ 19.&lt;/p&gt;
+&lt;p class="definition"&gt;&lt;b&gt;&lt;i&gt;vocational training&lt;/i&gt;&lt;/b&gt; means vocational training within the meaning of sectionÂ 19 (other than training provided as part of a rehabilitation program or followup program under PartÂ III of the &lt;i&gt;Disability Services Act 1986&lt;/i&gt;).&lt;/p&gt;
+&lt;p class="definition"&gt;&lt;b&gt;&lt;i&gt;voluntary work&lt;/i&gt;&lt;/b&gt; means work approved by the Secretary undertaken in a voluntary capacity for charitable, welfare or community organisations.&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;</j.4:content>
+    <j.4:fileName>Mobility Allowance - extract.docx</j.4:fileName>
+    <j.4:Page-Count rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</j.4:Page-Count>
+    <j.1:NPages rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</j.1:NPages>
+    <j.4:Last-Modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-01T00:09:00Z</j.4:Last-Modified>
+    <j.0:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-01T00:09:00Z</j.0:modified>
+    <j.4:Creation-Date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-01T00:05:00Z</j.4:Creation-Date>
+    <j.4:Application-Name>Microsoft Office Word</j.4:Application-Name>
+    <j.6:character-count-with-spaces rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2008</j.6:character-count-with-spaces>
+    <j.2:TotalTime rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</j.2:TotalTime>
+    <j.0:creator>simon opper</j.0:creator>
+  </rdf:Description>
+</rdf:RDF>
