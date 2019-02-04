@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:dita="http://purl.org/dita/ns#"
+         xmlns:schema="http://schema.org/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xml:base="http://purl.org/dita/ns#">
+   <rdf:Description xmlns:ot="http://www.idiominc.com/opentopic"
+                    rdf:about="http://surroundaustralia.com/crips/abm/dita/resources/map/d9e8">
+      <rdf:type rdf:resource="http://purl.org/dita/ns#Map"/>
+      <rdf:type rdf:resource="http://purl.org/dita/ns#Doctype"/>
+      <dita:id>d9e8</dita:id>
+      <dita:xtrf>file:/C:/Users/simon/Documents/GitHub/DHS_MobilityLegislation_extractTest/Social%20Security%20Act%201991.ditamap</dita:xtrf>
+      <title xmlns="http://purl.org/dita/ns#">Social Security Act 1991</title>
+      <dita:topicref>
+         <rdf:Description rdf:about="http://surroundaustralia.com/crips/abm/dita/resources/map/d9e8#topicref:1;5:56">
+            <rdf:type rdf:resource="http://purl.org/dita/ns#Topicref"/>
+            <dita:format>dita</dita:format>
+            <dita:href>
+               <rdf:Description rdf:about="http://surroundaustralia.com/crips/abm/dita/resources/topic/part_2.21_mobility_allowance">
+                  <rdf:type rdf:resource="http://purl.org/dita/ns#Topic"/>
+                  <rdf:type rdf:resource="http://purl.org/dita/ns#Doctype"/>
+                  <dita:id>part_2.21_mobility_allowance</dita:id>
+                  <dita:xtrf>file:/C:/Users/simon/Documents/GitHub/DHS_MobilityLegislation_extractTest/part_2.21_mobility_allowance.dita</dita:xtrf>
+                  <title xmlns="http://purl.org/dita/ns#">Part 2.21—Mobility allowance</title>
+               </rdf:Description>
+            </dita:href>
+         </rdf:Description>
+      </dita:topicref>
+      <dita:topicref>
+         <rdf:Description rdf:about="http://surroundaustralia.com/crips/abm/dita/resources/map/d9e8#topicref:2;6:50">
+            <rdf:type rdf:resource="http://purl.org/dita/ns#Topicref"/>
+            <dita:format>dita</dita:format>
+            <dita:href>
+               <rdf:Description rdf:about="http://surroundaustralia.com/crips/abm/dita/resources/topic/topic_k4z_wsk_qgb">
+                  <rdf:type rdf:resource="http://purl.org/dita/ns#Topic"/>
+                  <rdf:type rdf:resource="http://purl.org/dita/ns#Doctype"/>
+                  <dita:id>topic_k4z_wsk_qgb</dita:id>
+                  <dita:xtrf>file:/C:/Users/simon/Documents/GitHub/DHS_MobilityLegislation_extractTest/Division1_Qual1035.xml</dita:xtrf>
+                  <title xmlns="http://purl.org/dita/ns#">Division 1—Qualification for and payability of mobility allowance</title>
+                  <dita:xref>
+                     <rdf:Description rdf:about="http://surroundaustralia.com/crips/abm/dita/resources/topic/topic_k4z_wsk_qgb#xref:1;11:27">
+                        <rdf:type rdf:resource="http://purl.org/dita/ns#Xref"/>
+                        <dita:keyref>
+                           <dita:Key rdf:about="http://surroundaustralia.com/crips/abm/dita/resources/topic/topic_k4z_wsk_qgb/keys/1044">
+                              <dita:keyname>1044</dita:keyname>
+                           </dita:Key>
+                        </dita:keyref>
+                     </rdf:Description>
+                  </dita:xref>
+                  <element xmlns="http://purl.org/dita/ns#">
+                     <rdf:Description rdf:about="http://surroundaustralia.com/crips/abm/dita/resources/topic/topic_k4z_wsk_qgb#ol_pd1_kvk_qgb">
+                        <dita:id>ol_pd1_kvk_qgb</dita:id>
+                        <rdf:type rdf:resource="http://purl.org/dita/ns#Ol"/>
+                        <rdfs:label>ol</rdfs:label>
+                        <dita:text>(i) the person is a handicapped person; (ii) the person is engaged in gainful employment; (iii) the Secretary is of the opinion that:</dita:text>
+                     </rdf:Description>
+                  </element>
+               </rdf:Description>
+            </dita:href>
+         </rdf:Description>
+      </dita:topicref>
+      <dita:topicref>
+         <rdf:Description rdf:about="http://surroundaustralia.com/crips/abm/dita/resources/map/d9e8#topicref:3;7:51">
+            <rdf:type rdf:resource="http://purl.org/dita/ns#Topicref"/>
+            <dita:format>dita</dita:format>
+            <dita:href>
+               <rdf:Description rdf:about="http://surroundaustralia.com/crips/abm/dita/resources/topic/division2_qual1044">
+                  <rdf:type rdf:resource="http://purl.org/dita/ns#Topic"/>
+                  <rdf:type rdf:resource="http://purl.org/dita/ns#Doctype"/>
+                  <dita:id>division2_qual1044</dita:id>
+                  <dita:xtrf>file:/C:/Users/simon/Documents/GitHub/DHS_MobilityLegislation_extractTest/division2_qual1044.dita</dita:xtrf>
+                  <title xmlns="http://purl.org/dita/ns#">Division 2—Rate of mobility allowance</title>
+               </rdf:Description>
+            </dita:href>
+         </rdf:Description>
+      </dita:topicref>
+      <dita:keydef>
+         <rdf:Description rdf:about="http://surroundaustralia.com/crips/abm/dita/resources/map/d9e8#keydef:1;9:57">
+            <rdf:type rdf:resource="http://purl.org/dita/ns#Topicref"/>
+            <rdf:type rdf:resource="http://purl.org/dita/ns#Keydef"/>
+            <dita:key>
+               <dita:Key rdf:about="http://surroundaustralia.com/crips/abm/dita/resources/map/d9e8/keys/1044">
+                  <dita:keyname>1044</dita:keyname>
+                  <dita:format>dita</dita:format>
+                  <dita:href>
+                     <rdf:Description rdf:about="http://surroundaustralia.com/crips/abm/dita/resources/topic/division2_qual1044">
+                        <rdf:type rdf:resource="http://purl.org/dita/ns#Topic"/>
+                        <rdf:type rdf:resource="http://purl.org/dita/ns#Doctype"/>
+                        <dita:id>division2_qual1044</dita:id>
+                        <dita:xtrf>file:/C:/Users/simon/Documents/GitHub/DHS_MobilityLegislation_extractTest/division2_qual1044.dita</dita:xtrf>
+                        <title xmlns="http://purl.org/dita/ns#">Division 2—Rate of mobility allowance</title>
+                     </rdf:Description>
+                  </dita:href>
+               </dita:Key>
+            </dita:key>
+         </rdf:Description>
+      </dita:keydef>
+   </rdf:Description>
+   <dcat:Dataset xmlns:dcat="http://www.w3.org/ns/dcat#"
+                 rdf:about="http://surroundaustralia.com/crips/abm/dita/resources/dataset/d9e8">
+      <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-01T13:06:40.833+11:00</dcterms:issued>
+      <dcterms:description>file:/C:/Users/simon/Documents/GitHub/DHS_MobilityLegislation_extractTest/Social%20Security%20Act%201991.ditamap</dcterms:description>
+      <dcterms:title> Social Security Act 1991 </dcterms:title>
+      <rdfs:label> Social Security Act 1991 </rdfs:label>
+   </dcat:Dataset>
+</rdf:RDF>
