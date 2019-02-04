@@ -1,0 +1,772 @@
+{
+  "head" : {
+    "vars" : [
+      "row",
+      "Column_1"
+    ]
+  },
+  "results" : {
+    "bindings" : [
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "1035  Qualification for mobility allowance (rate specified in subsection 1044(1))"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row1"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "             (1)  A person is qualified for a mobility allowance at the rate specified in subsection 1044(1) if the person satisfies the travel test set out in subsection (2) and:"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row2"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                     (a)  all of the following apply:"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row3"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                              (i)  the person is a handicapped person;"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row4"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                             (ii)  the person is engaged in gainful employment;"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row5"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                            (iii)  the Secretary is of the opinion that:"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row6"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                                        (A)  the person is unable to use public transport without substantial assistance, either permanently or for an extended period; and"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row7"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                                        (B)  the person’s inability to use public transport without substantial assistance is due to the person’s physical or mental disability; and"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row8"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                                        (C)  the person is engaged in the gainful employment for at least 32 hours in every 4 weeks on a continuing basis;"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row9"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                            (iv)  the person is an Australian resident; or"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row10"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                     (b)  all of the following apply:"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row11"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                              (i)  the person is a handicapped person;"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row12"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                             (ii)  the person is undertaking vocational training;"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row13"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                            (iii)  the Secretary is of the opinion that:"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row14"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                                        (A)  the person is unable to use public transport without substantial assistance, either permanently or for an extended period; and"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row15"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                                        (B)  the person’s inability to use public transport without substantial assistance is due to the person’s physical or mental disability; and"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row16"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                                        (C)  the person is undertaking the vocational training for at least 32 hours in every 4 weeks on a continuing basis;"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row17"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                            (iv)  the person is an Australian resident; or"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row18"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                     (c)  all of the following apply:"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row19"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                              (i)  the person is a handicapped person;"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row20"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                             (ii)  the person is receiving newstart allowance, youth allowance or austudy payment;"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row21"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                            (iii)  the Secretary is of the opinion that:"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row22"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                                        (A)  the person is unable to use public transport without substantial assistance, either permanently or for an extended period; and"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row23"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                                        (B)  the person’s inability to use public transport without substantial assistance is due to the person’s physical or mental disability; and"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row24"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                            (iv)  the person is required to satisfy the activity test;"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row25"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                             (v)  the person is an Australian resident; or"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row26"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                     (d)  all of the following apply:"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row27"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                              (i)  the person is a handicapped person;"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row28"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                             (ii)  the Secretary is of the opinion that:"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row29"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                                        (A)  the person is unable to use public transport without substantial assistance, either permanently or for an extended period; and"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row30"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                                        (B)  the person’s inability to use public transport without substantial assistance is due to the person’s physical or mental disability; and"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row31"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                                        (C)  the person is undertaking job search activities under an agreement between the Secretary and a service provider nominated by the Secretary;"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row32"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                            (iii)  the person is an Australian resident; or"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row33"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                     (e)  all of the following apply:"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row34"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                              (i)  the person is a handicapped person;"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row35"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                             (ii)  the Secretary is of the opinion that:"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row36"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                                        (A)  the person is unable to use public transport without substantial assistance, either permanently or for an extended period; and"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row37"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                                        (B)  the person’s inability to use public transport without substantial assistance is due to the person’s physical or mental disability; and"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row38"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                                        (C)  the person is undertaking job search activities under the Competitive Employment Placement and Training Program administered by the Department;"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row39"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                            (iii)  the person is an Australian resident; or"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row40"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                      (f)  all of the following apply:"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row41"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                              (i)  the person is a handicapped person;"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row42"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                             (ii)  the Secretary is of the opinion that:"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row43"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                                        (A)  the person is unable to use public transport without substantial assistance, either permanently or for an extended period; and"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row44"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                                        (B)  the person’s inability to use public transport without substantial assistance is due to the person’s physical or mental disability; and"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row45"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                                        (C)  the person is engaged in voluntary work for at least 32 hours in every 4 weeks on a continuing basis;"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row46"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                            (iii)  the person is an Australian resident; or"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row47"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                     (g)  all of the following apply:"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row48"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                              (i)  the person is a handicapped person;"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row49"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                             (ii)  the Secretary is of the opinion that:"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row50"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                                        (A)  the person is unable to use public transport without substantial assistance, either permanently or for an extended period; and"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row51"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                                        (B)  the person’s inability to use public transport without substantial assistance is due to the person’s physical or mental disability;"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row52"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                            (iii)  the Secretary is of the opinion that the person is undertaking a combination of any 2 or more of the following:"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row53"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                                        (A)  gainful employment;"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row54"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                                        (B)  vocational training;"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row55"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                                        (C)  voluntary work;"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row56"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                                   for at least 32 hours in every 4 weeks on a continuing basis;"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row57"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                            (iv)  the person is an Australian resident; or"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row58"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                     (h)  all of the following apply:"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row59"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                              (i)  the person is a handicapped person;"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row60"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                             (ii)  the person is undertaking a vocational rehabilitation program;"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row61"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                            (iii)  the Secretary is of the opinion that:"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row62"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                                        (A)  the person is unable to use public transport without substantial assistance, either permanently or for an extended period; and"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row63"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                                        (B)  the person’s inability to use public transport without substantial assistance is due to the person’s physical or mental disability;"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row64"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                            (iv)  the person is an Australian resident."
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row65"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "             (2)  A person satisfies the travel test mentioned in subsection (1) if the person is required to travel to and from the person’s home for the purpose of undertaking:"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row66"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                     (a)  gainful employment; or"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row67"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                     (b)  vocational training; or"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row68"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                     (c)  job search activities; or"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row69"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                     (d)  voluntary work; or"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row70"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "                     (e)  a vocational rehabilitation program."
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row71"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "             (3)  In this section:"
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row72"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "vocational rehabilitation program means a rehabilitation program (or follow‑up program) under Part III of the Disability Services Act 1986 that provides a person with assistance to obtain or retain unsupported paid employment."
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row73"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "Note:          A vocational rehabilitation program may include vocational training within the meaning of section 19."
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row74"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "vocational training means vocational training within the meaning of section 19 (other than training provided as part of a rehabilitation program or follow‑up program under Part III of the Disability Services Act 1986)."
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row75"
+        }
+      },
+      {
+        "Column_1" : {
+          "type" : "literal",
+          "value" : "voluntary work means work approved by the Secretary undertaken in a voluntary capacity for charitable, welfare or community organisations."
+        },
+        "row" : {
+          "type" : "uri",
+          "value" : "http://example.com/resource/Row76"
+        }
+      }
+    ]
+  }
+}
