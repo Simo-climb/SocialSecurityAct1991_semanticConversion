@@ -1,0 +1,1530 @@
+{
+    "mentions": [
+        {
+            "name": "person",
+            "startOffset": 4342,
+            "endOffset": 4348,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9442656901207311,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 1113,
+            "endOffset": 1119,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9442656901207311,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 5456,
+            "endOffset": 5462,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9442656901207311,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 6571,
+            "endOffset": 6577,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9100436522779382,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 4158,
+            "endOffset": 4164,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.938860705009538,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 3413,
+            "endOffset": 3419,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9333733409221646,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 3983,
+            "endOffset": 3989,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9442656901207311,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 782,
+            "endOffset": 788,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.938860705009538,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 5791,
+            "endOffset": 5797,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.938860705009538,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 438,
+            "endOffset": 444,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9442656901207311,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 5320,
+            "endOffset": 5326,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9442656901207311,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 201,
+            "endOffset": 207,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9392320347008226,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 7322,
+            "endOffset": 7328,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9333733409221646,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 4996,
+            "endOffset": 5002,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.938860705009538,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 1323,
+            "endOffset": 1329,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9442656901207311,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 1249,
+            "endOffset": 1255,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9442656901207311,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 7838,
+            "endOffset": 7844,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9391473104188921,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 7277,
+            "endOffset": 7283,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9392320347008226,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 5084,
+            "endOffset": 5090,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9333733409221646,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 5998,
+            "endOffset": 6004,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9392320347008226,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 2138,
+            "endOffset": 2144,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9442656901207311,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 3509,
+            "endOffset": 3515,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9442656901207311,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 4246,
+            "endOffset": 4252,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9333733409221646,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 870,
+            "endOffset": 876,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9333733409221646,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 364,
+            "endOffset": 370,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9442656901207311,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 3150,
+            "endOffset": 3156,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9442656901207311,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 1669,
+            "endOffset": 1675,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.938860705009538,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 2212,
+            "endOffset": 2218,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9442656901207311,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 6808,
+            "endOffset": 6814,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9442656901207311,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 2854,
+            "endOffset": 2860,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9442656901207311,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 5480,
+            "endOffset": 5486,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9100436522779382,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 1853,
+            "endOffset": 1859,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9442656901207311,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 5616,
+            "endOffset": 5622,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9442656901207311,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 3687,
+            "endOffset": 3693,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9442656901207311,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 1494,
+            "endOffset": 1500,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9442656901207311,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 5180,
+            "endOffset": 5186,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9442656901207311,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 1757,
+            "endOffset": 1763,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9333733409221646,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 4821,
+            "endOffset": 4827,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9442656901207311,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 4685,
+            "endOffset": 4691,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9100436522779382,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 6983,
+            "endOffset": 6989,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.938860705009538,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 7152,
+            "endOffset": 7158,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9442656901207311,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 4661,
+            "endOffset": 4667,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9442656901207311,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 2764,
+            "endOffset": 2770,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9442656901207311,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 3847,
+            "endOffset": 3853,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9100436522779382,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 6621,
+            "endOffset": 6627,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9442656901207311,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 2416,
+            "endOffset": 2422,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9442656901207311,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 966,
+            "endOffset": 972,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9442656901207311,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 2162,
+            "endOffset": 2168,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9100436522779382,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 2990,
+            "endOffset": 2996,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9442656901207311,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 5879,
+            "endOffset": 5885,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9333733409221646,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 607,
+            "endOffset": 613,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9442656901207311,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 7071,
+            "endOffset": 7077,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9333733409221646,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 1273,
+            "endOffset": 1279,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9100436522779382,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 7209,
+            "endOffset": 7215,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9348442179205297,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 6411,
+            "endOffset": 6417,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9442656901207311,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 3823,
+            "endOffset": 3829,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9442656901207311,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 388,
+            "endOffset": 394,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9100436522779382,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 6547,
+            "endOffset": 6553,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9442656901207311,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 2679,
+            "endOffset": 2685,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9333733409221646,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 2002,
+            "endOffset": 2008,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9442656901207311,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 3014,
+            "endOffset": 3020,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9100436522779382,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 4524,
+            "endOffset": 4530,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9442656901207311,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 2591,
+            "endOffset": 2597,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.938860705009538,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 105,
+            "endOffset": 111,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.9348442179205297,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "person",
+            "startOffset": 3325,
+            "endOffset": 3331,
+            "type": "Keyphrase",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsrzdvu9ryf4",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "relevanceScore": 1,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Person"
+                ],
+                "confidence": 0.938860705009538,
+                "isTrusted": "true"
+            }
+        },
+        {
+            "name": "mental disability",
+            "startOffset": 891,
+            "endOffset": 908,
+            "type": "Event",
+            "features": {
+                "string": "mental disability",
+                "inst": "http://ontology.ontotext.com/resource/tsk63pebw64g",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "id": 2595051,
+                "tokenFeature": "stem",
+                "subclasses": [
+                    "Concept",
+                    "Disease",
+                    "Event",
+                    "AilmentCondition",
+                    "Situation",
+                    "Thing"
+                ],
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Developmental_disability"
+                ],
+                "relevanceScore": 0.11876306986326382,
+                "preferredLabel": [
+                    "Developmental disability",
+                    "Интелектуална недостатъчност"
+                ],
+                "confidence": 0.8730113120324048,
+                "sentimentPosScore": 0.846,
+                "rule": "RestoreTrustedThingsWithConcreteType",
+                "sentimentNegScore": 0.15400000000000003,
+                "isTrusted": "true",
+                "isPositive": "true",
+                "sentimentScoreInDoc": 0.846,
+                "sentimentScore": 0.846,
+                "overallScore": 0.4958871909478343
+            }
+        },
+        {
+            "name": "mental disability",
+            "startOffset": 5105,
+            "endOffset": 5122,
+            "type": "Event",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsk63pebw64g",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "string": "mental disability",
+                "relevanceScore": 0.11876306986326382,
+                "overallScore": 0.4958871909478343,
+                "confidence": 0.8730113120324048,
+                "sentimentPosScore": 0.846,
+                "sentimentNegScore": 0.15400000000000003,
+                "id": 2595051,
+                "tokenFeature": "stem",
+                "subclasses": [
+                    "Concept",
+                    "Disease",
+                    "Event",
+                    "AilmentCondition",
+                    "Situation",
+                    "Thing"
+                ],
+                "sentimentScore": 0.846,
+                "sentimentScoreInDoc": 0.846,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Developmental_disability"
+                ],
+                "preferredLabel": [
+                    "Developmental disability",
+                    "Интелектуална недостатъчност"
+                ],
+                "rule": "RestoreTrustedThingsWithConcreteType",
+                "isTrusted": "true",
+                "isPositive": "true"
+            }
+        },
+        {
+            "name": "mental disability",
+            "startOffset": 5900,
+            "endOffset": 5917,
+            "type": "Event",
+            "features": {
+                "subclasses": [
+                    "Concept",
+                    "Disease",
+                    "Event",
+                    "AilmentCondition",
+                    "Situation",
+                    "Thing"
+                ],
+                "inst": "http://ontology.ontotext.com/resource/tsk63pebw64g",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "string": "mental disability",
+                "sentimentPosScore": 0.846,
+                "id": 2595051,
+                "rule": "RestoreTrustedThingsWithConcreteType",
+                "tokenFeature": "stem",
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Developmental_disability"
+                ],
+                "preferredLabel": [
+                    "Developmental disability",
+                    "Интелектуална недостатъчност"
+                ],
+                "isTrusted": "true",
+                "sentimentScore": 0.846,
+                "sentimentNegScore": 0.15400000000000003,
+                "sentimentScoreInDoc": 0.846,
+                "confidence": 0.8614851955483092,
+                "relevanceScore": 0.11876306986326382,
+                "isPositive": "true",
+                "overallScore": 0.4901241327057865
+            }
+        },
+        {
+            "name": "mental disability",
+            "startOffset": 4267,
+            "endOffset": 4284,
+            "type": "Event",
+            "features": {
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Developmental_disability"
+                ],
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "inst": "http://ontology.ontotext.com/resource/tsk63pebw64g",
+                "string": "mental disability",
+                "sentimentScore": 0.846,
+                "id": 2595051,
+                "tokenFeature": "stem",
+                "subclasses": [
+                    "Concept",
+                    "Disease",
+                    "Event",
+                    "AilmentCondition",
+                    "Situation",
+                    "Thing"
+                ],
+                "sentimentPosScore": 0.846,
+                "preferredLabel": [
+                    "Developmental disability",
+                    "Интелектуална недостатъчност"
+                ],
+                "sentimentNegScore": 0.15400000000000003,
+                "relevanceScore": 0.11876306986326382,
+                "overallScore": 0.4958871909478343,
+                "rule": "RestoreTrustedThingsWithConcreteType",
+                "sentimentScoreInDoc": 0.846,
+                "isTrusted": "true",
+                "isPositive": "true",
+                "confidence": 0.8730113120324048
+            }
+        },
+        {
+            "name": "engaged",
+            "startOffset": 976,
+            "endOffset": 983,
+            "type": "Event",
+            "features": {
+                "preferredLabel": [
+                    "Бременност при човека",
+                    "pregnancy"
+                ],
+                "inst": "http://ontology.ontotext.com/resource/tsk4yze7j4lc",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "string": "engaged",
+                "id": 2617762,
+                "rule": "RestoreTrustedThingsWithConcreteType",
+                "overallScore": 0.3354841354099253,
+                "tokenFeature": "stem",
+                "confidence": 0.6089529538875089,
+                "subclasses": [
+                    "Concept",
+                    "Disease",
+                    "Event",
+                    "AilmentCondition",
+                    "Situation",
+                    "Thing"
+                ],
+                "sentimentScore": 0.8,
+                "sentimentPosScore": 0.8000000000000002,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Pregnancy"
+                ],
+                "isTrusted": "true",
+                "sentimentNegScore": 0.19999999999999996,
+                "sentimentScoreInDoc": 0.7000000000000001,
+                "isPositive": "true",
+                "relevanceScore": 0.0620153169323416
+            }
+        },
+        {
+            "name": "Employment",
+            "startOffset": 4408,
+            "endOffset": 4418,
+            "type": "Work",
+            "features": {
+                "id": 3128342,
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "inst": "http://ontology.ontotext.com/resource/tslp48t0quio",
+                "sentimentScoreInDoc": 0.4475,
+                "string": "Employment",
+                "tokenFeature": "stem",
+                "confidence": 0.942730524634846,
+                "rule": "RestoreTrustedThingsWithConcreteType",
+                "preferredLabel": [
+                    "employment"
+                ],
+                "sentimentPosScore": 0.795,
+                "sentimentScore": 0.795,
+                "subclasses": [
+                    "Concept",
+                    "Work",
+                    "Thing"
+                ],
+                "relevanceScore": 0.014138706776864058,
+                "sentimentNegScore": 0.20499999999999996,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Employment"
+                ],
+                "overallScore": 0.478434615705855,
+                "isTrusted": "true",
+                "isPositive": "true"
+            }
+        },
+        {
+            "name": "mental disability",
+            "startOffset": 7092,
+            "endOffset": 7109,
+            "type": "Event",
+            "features": {
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "inst": "http://ontology.ontotext.com/resource/tsk63pebw64g",
+                "string": "mental disability",
+                "id": 2595051,
+                "confidence": 0.8614851955483092,
+                "sentimentNegScore": 0.15400000000000003,
+                "sentimentScoreInDoc": 0.846,
+                "sentimentScore": 0.846,
+                "tokenFeature": "stem",
+                "subclasses": [
+                    "Concept",
+                    "Disease",
+                    "Event",
+                    "AilmentCondition",
+                    "Situation",
+                    "Thing"
+                ],
+                "sentimentPosScore": 0.846,
+                "rule": "RestoreTrustedThingsWithConcreteType",
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Developmental_disability"
+                ],
+                "relevanceScore": 0.11876306986326382,
+                "preferredLabel": [
+                    "Developmental disability",
+                    "Интелектуална недостатъчност"
+                ],
+                "isTrusted": "true",
+                "overallScore": 0.4901241327057865,
+                "isPositive": "true"
+            }
+        },
+        {
+            "name": "engaged",
+            "startOffset": 5190,
+            "endOffset": 5197,
+            "type": "Event",
+            "features": {
+                "string": "engaged",
+                "inst": "http://ontology.ontotext.com/resource/tsk4yze7j4lc",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "id": 2617762,
+                "sentimentScoreInDoc": 0.7000000000000001,
+                "tokenFeature": "stem",
+                "subclasses": [
+                    "Concept",
+                    "Disease",
+                    "Event",
+                    "AilmentCondition",
+                    "Situation",
+                    "Thing"
+                ],
+                "sentimentScore": 0.5,
+                "sentimentNegScore": 0,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Pregnancy"
+                ],
+                "preferredLabel": [
+                    "Бременност при човека",
+                    "pregnancy"
+                ],
+                "overallScore": 0.3354841354099253,
+                "relevanceScore": 0.0620153169323416,
+                "isTrusted": "true",
+                "rule": "RestoreTrustedThingsWithConcreteType",
+                "confidence": 0.6089529538875089,
+                "isPositive": "true",
+                "sentimentPosScore": 0
+            }
+        },
+        {
+            "name": "employment",
+            "startOffset": 7898,
+            "endOffset": 7908,
+            "type": "Work",
+            "features": {
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "inst": "http://ontology.ontotext.com/resource/tslp48t0quio",
+                "string": "employment",
+                "confidence": 0.976629497111212,
+                "relevanceScore": 0.014138706776864058,
+                "id": 3128342,
+                "tokenFeature": "stem",
+                "sentimentScore": 0.09999999999999998,
+                "preferredLabel": [
+                    "employment"
+                ],
+                "subclasses": [
+                    "Concept",
+                    "Work",
+                    "Thing"
+                ],
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Employment"
+                ],
+                "sentimentScoreInDoc": 0.4475,
+                "sentimentNegScore": 0.9,
+                "isTrusted": "true",
+                "sentimentPosScore": 0.1,
+                "overallScore": 0.49538410194403804,
+                "rule": "RestoreTrustedThingsWithConcreteType",
+                "isPositive": "true"
+            }
+        },
+        {
+            "name": "engaged",
+            "startOffset": 448,
+            "endOffset": 455,
+            "type": "Event",
+            "features": {
+                "string": "engaged",
+                "inst": "http://ontology.ontotext.com/resource/tsk4yze7j4lc",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "id": 2617762,
+                "tokenFeature": "stem",
+                "rule": "RestoreTrustedThingsWithConcreteType",
+                "confidence": 0.6089529538875089,
+                "sentimentPosScore": 0.8,
+                "subclasses": [
+                    "Concept",
+                    "Disease",
+                    "Event",
+                    "AilmentCondition",
+                    "Situation",
+                    "Thing"
+                ],
+                "relevanceScore": 0.0620153169323416,
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Pregnancy"
+                ],
+                "sentimentScoreInDoc": 0.7000000000000001,
+                "preferredLabel": [
+                    "Бременност при човека",
+                    "pregnancy"
+                ],
+                "isTrusted": "true",
+                "isPositive": "true",
+                "sentimentScore": 0.8,
+                "sentimentNegScore": 0.19999999999999996,
+                "overallScore": 0.3354841354099253
+            }
+        },
+        {
+            "name": "mental disability",
+            "startOffset": 2700,
+            "endOffset": 2717,
+            "type": "Event",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsk63pebw64g",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "string": "mental disability",
+                "sentimentPosScore": 0.846,
+                "id": 2595051,
+                "rule": "RestoreTrustedThingsWithConcreteType",
+                "tokenFeature": "stem",
+                "subclasses": [
+                    "Concept",
+                    "Disease",
+                    "Event",
+                    "AilmentCondition",
+                    "Situation",
+                    "Thing"
+                ],
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Developmental_disability"
+                ],
+                "sentimentScore": 0.846,
+                "sentimentScoreInDoc": 0.846,
+                "preferredLabel": [
+                    "Developmental disability",
+                    "Интелектуална недостатъчност"
+                ],
+                "overallScore": 0.4958871909478343,
+                "confidence": 0.8730113120324048,
+                "relevanceScore": 0.11876306986326382,
+                "isTrusted": "true",
+                "isPositive": "true",
+                "sentimentNegScore": 0.15400000000000003
+            }
+        },
+        {
+            "name": "mental disability",
+            "startOffset": 1778,
+            "endOffset": 1795,
+            "type": "Event",
+            "features": {
+                "inst": "http://ontology.ontotext.com/resource/tsk63pebw64g",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "sentimentPosScore": 0.846,
+                "relevanceScore": 0.11876306986326382,
+                "sentimentNegScore": 0.15400000000000003,
+                "sentimentScore": 0.846,
+                "rule": "RestoreTrustedThingsWithConcreteType",
+                "string": "mental disability",
+                "id": 2595051,
+                "tokenFeature": "stem",
+                "subclasses": [
+                    "Concept",
+                    "Disease",
+                    "Event",
+                    "AilmentCondition",
+                    "Situation",
+                    "Thing"
+                ],
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Developmental_disability"
+                ],
+                "confidence": 0.8730113120324048,
+                "overallScore": 0.4958871909478343,
+                "preferredLabel": [
+                    "Developmental disability",
+                    "Интелектуална недостатъчност"
+                ],
+                "isTrusted": "true",
+                "sentimentScoreInDoc": 0.846,
+                "isPositive": "true"
+            }
+        },
+        {
+            "name": "mental disability",
+            "startOffset": 3434,
+            "endOffset": 3451,
+            "type": "Event",
+            "features": {
+                "exactMatch": [
+                    "http://dbpedia.org/resource/Developmental_disability"
+                ],
+                "inst": "http://ontology.ontotext.com/resource/tsk63pebw64g",
+                "class": "http://ontology.ontotext.com/taxonomy/Thing",
+                "string": "mental disability",
+                "sentimentNegScore": 0.15400000000000003,
+                "sentimentScoreInDoc": 0.846,
+                "overallScore": 0.4958871909478343,
+                "id": 2595051,
+                "sentimentScore": 0.846,
+                "sentimentPosScore": 0.846,
+                "rule": "RestoreTrustedThingsWithConcreteType",
+                "tokenFeature": "stem",
+                "subclasses": [
+                    "Concept",
+                    "Disease",
+                    "Event",
+                    "AilmentCondition",
+                    "Situation",
+                    "Thing"
+                ],
+                "confidence": 0.8730113120324048,
+                "preferredLabel": [
+                    "Developmental disability",
+                    "Интелектуална недостатъчност"
+                ],
+                "isTrusted": "true",
+                "isPositive": "true",
+                "relevanceScore": 0.11876306986326382
+            }
+        }
+    ]
+}
