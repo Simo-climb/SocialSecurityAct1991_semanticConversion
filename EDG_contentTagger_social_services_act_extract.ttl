@@ -1,0 +1,35 @@
+# baseURI: urn:x-evn-master:tagged_social_services_act_extract
+# imports: http://topbraid.org/taggershapes
+# imports: http://www.w3.org/2004/02/skos/core
+# imports: urn:x-evn-master:schemaexample
+
+@prefix metadata: <http://topbraid.org/metadata#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+<http://example.org/corpora/new#Mobility%20Allowance%20-%20extract.docx>
+        <http://schema.org/agent>     <http://schema.org/Person> ;
+        <http://schema.org/containedInPlace>
+                <http://schema.org/Person> ;
+        <http://schema.org/employee>  <http://schema.org/Person> ;
+        <http://schema.org/exampleOfWork>
+                <http://topbraid.org/schemax/stringOrinteger> .
+
+<urn:x-evn-master:tagged_social_services_act_extract>
+        a                owl:Ontology ;
+        rdfs:comment     "tagged extract of social services legislation" ;
+        rdfs:label       "Tagged Social Services Act Extract" ;
+        <http://evn.topbraidlive.org/tagger#defaultTagProperty>
+                <http://schema.org/relatedTo> ;
+        <http://evn.topbraidlive.org/tagger#objectGraph>
+                <urn:x-evn-master:schemaexample> ;
+        <http://evn.topbraidlive.org/tagger#subjectGraph>
+                <http://SURROUND.org/SocialSecurityLegislation> ;
+        <http://evn.topbraidlive.org/tagger#subjectRootClass>
+                <http://topbraid.org/corpus#Document> ;
+        <http://evn.topbraidlive.org/tagger#tagProperty>
+                <http://schema.org/dataset> , <http://schema.org/children> , <http://schema.org/containedInPlace> , <http://schema.org/agent> , <http://schema.org/exampleOfWork> , <http://schema.org/containsPlace> , <http://datashapes.org/graphql#defaultPrefix> , <http://schema.org/about> , <http://schema.org/employee> , <http://schema.org/actionStatus> ;
+        <http://spinrdf.org/spin#imports>
+                <http://topbraid.org/spin/evnconstraints> ;
+        metadata:status  metadata:UnderDevelopmentStatus ;
+        owl:imports      <http://www.w3.org/2004/02/skos/core> , <urn:x-evn-master:schemaexample> , <http://topbraid.org/taggershapes> .
